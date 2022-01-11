@@ -5,9 +5,8 @@
 - dibawh ini adalah code syntax daftar_nilai.py
 from view.input_nilai import *
 
-dataMahasiswa = {}
-
 ```python
+dataMahasiswa = {}
 def tambah_data():
     global dataMahasiswa
     nama = input_nama()
